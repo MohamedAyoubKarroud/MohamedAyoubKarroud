@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [mohamed ayoub karroud]
+# 👋 Hello, I'm Mohamed Ayoub Karroud
 
 I'm a passionate developer focused on building fast, efficient, and reliable applications using proven technologies. I enjoy solving real-world problems, working with web and systems development, and writing clean, maintainable code.
 
@@ -29,7 +29,7 @@ I'm a passionate developer focused on building fast, efficient, and reliable app
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-ayoub-karroud-a81301244/)
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-ayoub-karroud-a81301244/
 - 📧 Email: ayoubkarroud.ak@gmail.com
 
 
