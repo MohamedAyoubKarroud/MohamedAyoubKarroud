@@ -22,10 +22,8 @@ I'm a passionate developer focused on building fast, efficient, and reliable app
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud&show_icons=true&theme=transparent"/><br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyoubKarroud&layout=compact"/>
 
 ---
 
@@ -34,7 +32,4 @@ I'm a passionate developer focused on building fast, efficient, and reliable app
 - 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-ayoub-karroud-a81301244/)
 - 📧 Email: ayoubkarroud.ak@gmail.com
 
-# Hi there,I'm MohamedAyoubKarroud !👋
-i'm full stack developper
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud&show_icons=true&theme=transparent"/><br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyoubKarroud&layout=compact"/>
+
