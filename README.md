@@ -22,12 +22,7 @@ I'm a passionate developer focused on building fast, efficient, and reliable app
 ---
 
 ## 📈 GitHub Stats
-[![MohamedAyoubKarroud
- GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud
-)](https://github.com/MohamedAyoubKarroud
-/github-readme-stats)
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud&show_icons=true&theme=transparent"/><br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyoubKarroud&layout=compact"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud)](https://github.com/MohamedAyoubKarroud/github-readme-stats)
 
 ---
 
