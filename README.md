@@ -21,8 +21,17 @@ I'm a passionate developer focused on building fast, efficient, and reliable app
 
 ---
 
-## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud)](https://github.com/MohamedAyoubKarroud/github-readme-stats)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAyoubKarroud
+&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyoubKarroud
+&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAyoubKarroud&theme=radical)](https://git.io/streak-stats)
 
 ---
 
